@@ -20,9 +20,6 @@ es:
       votes: votos
       comment: Comentario
       comments: Comentarios
-      agree: Estoy de acuerdo
-      disagree: No estoy de acuerdo
-      leave_comment: Comentar
     form:
       error: error
       errors: errores
@@ -61,12 +58,25 @@ es:
     agree: Estoy de acuerdo
     disagree: No estoy de acuerdo
     supports: Apoyos
-    notice_thanks: "Gracias por votar."
-    notice_already_registered: "Tu voto ya ha sido registrado."
   account:
     show:
       title: "Mi cuenta"
       save_changes_submit: "Guardar cambios"
+      email_on_debate_comment_label: "Recibir un email cuando alguien commenta en mis debates"
+      email_on_comment_reply_label: "Recibir un email cuando alguien contesta a mis comentarios"
+      change_credentials_link: "Cambiar mi contraseña"
+      first_name_label: "Nombre"
+      last_name_label: "Apellidos"
+      use_nickname_label: "Usar pseudónimo"
+      nickname_label: "Pseudónimo"
+  recaptcha:
+    errors:
+      verification_failed: "La verificación por captcha falló"
   shared:
     tags_cloud:
         tags: Etiquetas
+  mailer:
+    comment:
+      subject: Alguien ha comentado en tu debate
+    reply:
+      subject: Alguien ha respondido a tu comentario
