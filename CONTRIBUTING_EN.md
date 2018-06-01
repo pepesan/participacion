@@ -43,4 +43,4 @@ If you want to contribute code to solve an issue:
   * Actual response
 * Sometimes it is also helpful if you mention your operating system, browser version and installed plugins.
 
-Thanks! :heart: :heart: :heart:
+Thanks! :heart: :heart: :heart: :heart:
